@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="NSW.API/NSW.API.csproj" />
+    <Project Path="NSW.Core/NSW.Core.csproj" />
+    <Project Path="NSW.Infrastructure/NSW.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="NSW.Tests/NSW.Tests.csproj" />
+  </Folder>
+</Solution>
